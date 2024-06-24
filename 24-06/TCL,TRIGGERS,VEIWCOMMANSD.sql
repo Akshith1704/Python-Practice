@@ -1,4 +1,4 @@
-e database meesho;
+create database meesho;
 use meesho;
 create table products(
 	pid int(4) primary key,
